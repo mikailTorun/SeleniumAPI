@@ -15,4 +15,5 @@ scenario steps are so simple,
 3-Get data from that site 
 4- return data
 
+Note: İf you want to run and see result, You must make some configurations inside that codes and webdriver version.
 Have an enjoy :D
