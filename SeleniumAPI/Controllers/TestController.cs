@@ -5,11 +5,11 @@ namespace SeleniumAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GetSiteContentController : ControllerBase
+    public class TestController : ControllerBase
     {
         private readonly Browser browser;
         private readonly LoginAutomation loginAutomation;
-        public GetSiteContentController(Browser browser,LoginAutomation loginAutomation)
+        public TestController(Browser browser,LoginAutomation loginAutomation)
         {
             this.browser = browser;
             this.loginAutomation = loginAutomation;
