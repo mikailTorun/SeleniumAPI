@@ -5,9 +5,9 @@
 
 Used Properties and Tech.:
 
-* *. .Net Core 5
-* *. Selenium WebDriver
-* *. Dependency injection
+* ** .Net Core 5
+* ** Selenium WebDriver
+* ** Dependency injection
 
 scenario steps are so simple, 
 1- Launch browser 
